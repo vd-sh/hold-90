@@ -2,7 +2,7 @@
 Hold 90 is a stand that lets you organize your stuff vertically.
 
 ## What is this?
-Hold 90 is a stand that organizes your stuff like laptop, tablet, phone, book, etc vertically. It is extensible, so you can organize as much stuff as you want (you will just need to print extra connectors and mid-supports). Serves place to items with varied thickness. Easily extensible and collapsible. Designed from scratch in Onshape, this has a sleek and minimal vibe in orange and white colors, the same as my other previous projects.
+Hold 90 is a stand that organizes your stuff, like a laptop, tablet, phone, book, etc vertically. It is extensible, so you can organize as much stuff as you want (you will just need to print extra connectors and mid-supports). It serves as a place for items of varying thickness. Easily extensible and collapsible. Designed from scratch in Onshape, this has a sleek and minimal vibe in orange and white colors, the same as my other previous projects.
 
 <img src="Assets/Screenshot-2026-10-16-180334.png" alt="image of hold 90" width="400">
 
