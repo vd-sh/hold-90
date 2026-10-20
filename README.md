@@ -9,16 +9,11 @@ Hold 90 is a stand that organizes your stuff, like a laptop, tablet, phone, book
 ## Repository Structure
 ```text
 hold-90/
-|
-|---- Assets/-----------# Images and visual references for the project
-|
-|---- Hardware/---------# Source design files for the CAD
-|
-|---- BOM.csv-----------# Bill of materials
-|
-|---- LICENSE-----------# MIT License
-|
-|---- README.md---------# Project documentation and instructions
+1] Assets/----> All the images and visual references of the project
+2] Hardware/--> Source design files
+3] BOM.csv----> Bill of materials
+4] LICENSE----> MIT License
+5] README.md --> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
@@ -28,7 +23,7 @@ Click [here](https://cad.onshape.com/documents/4ec9f21dc17d502f728c1132/w/7db6ad
 1. Download the source CAD .step files from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
-4. That's it! Wait for it to arrive and hold 90 your stuff!
+4. That's it! No assembly needed! Go on adding connectors and mid supports as you extend your Hold 90!
 
 ## [BOM](BOM.csv) as a table
 | Item     | Description  | Quantity | Price (USD) | Link                             |
